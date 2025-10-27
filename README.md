@@ -125,7 +125,7 @@ FRONTEND_FAILURE_URL=http://localhost:3000/login?error=oauth_failed
 
 **Your Name**
 Backend · Full-Stack Developer
-💼 [LinkedIn](https://linkedin.com/in/yourname) | 🌐 [Portfolio](https://yourdomain.com)
+💼 [LinkedIn](https://www.linkedin.com/in/taijulislammd/) | 🌐 [Portfolio](https://taijul-islam-portfolio.vercel.app/)
 
 ---
 
